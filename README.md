@@ -24,7 +24,7 @@ This course provides descriptions and examples of all scikit-learn tools, the co
 ## 🛁 Pre-processing
 
 ### Scalers
-Rescaling is important in because many machine learning algorithms are sensitive to the magnitude and range of a feature. Without scaling, features with a wide range of values will magnify the learning process, and lead to bias results. 
+Rescaling is important because many machine learning algorithms are sensitive to the magnitude and range of a feature. Without scaling, features with a wide range of values will magnify the learning process, and lead to bias results. 
 
 **MinMaxScaler**
 
