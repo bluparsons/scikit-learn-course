@@ -6,18 +6,15 @@
   />
 </p>
 
-This course provides descriptions and examples of all scikit-learn tools, the course is divided into the steps that they would be used in a machine learning project: 
+This course provides descriptions and examples of all scikit-learn tools, the course is divided into the steps that they would be used in a machine learning project. 
 
-1. Installation
-2. Load data
-3. Pre-processing
-4. Feature engineering
-5. Dimensionality reduction
-6. Machine learning: model selection
-7. Machine learning: regression
-8. Machine learning: classification
-9. Machine learning: clustering
-10. Machine learning: model evaluation
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/268082e6-7196-4b31-bd79-f696334d4d68"
+    alt="life-cycle"
+    width="70%"
+  />
+</p>
 
 ## 💾 Installation
 ## 🛄 Load data
