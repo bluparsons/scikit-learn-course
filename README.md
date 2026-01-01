@@ -6,11 +6,9 @@
   />
 </p>
 
-This course provides descriptions and examples of all scikit-learn tools, the course is divided into the steps that they would be used in a machine learning project. 
-
 <p align="center">
   <img 
-    src="https://github.com/user-attachments/assets/268082e6-7196-4b31-bd79-f696334d4d68"
+    src="https://github.com/user-attachments/assets/eb565e3b-fdd6-4b83-9a49-a9c113686334"
     alt="life-cycle"
     width="70%"
   />
